@@ -1,1 +1,1 @@
-## Super Resolution blir nice!
+## Super Resolution

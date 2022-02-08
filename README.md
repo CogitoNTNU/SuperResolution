@@ -1,2 +1,1 @@
-## Super Resolution
-Dette skaper konflikt!
+## Super Resolution blir nice!

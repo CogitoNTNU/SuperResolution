@@ -70,6 +70,8 @@ Lectures series that give a good introduction to Machine Learning and Deep Learn
 * [Git tutorial by Git](https://git-scm.com/docs/gittutorial)
 * [W3Schools Git](https://www.w3schools.com/git/)
 * [Git Tutorial by Atlassian](https://www.atlassian.com/git)
+* [GitHub SSH Connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+* [GitHub Tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
 
 ### Keras/tensorflow
 * [Intorduction to Deep Learning with Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras)
@@ -109,7 +111,7 @@ Official documentation for libraries and tools we will use
 * [Tesorflow](https://www.tensorflow.org/api/stable)
 * [Keras](https://keras.io/api/)
 * [Official Git Documentation](https://git-scm.com/doc)
-
+* [GitHub Documentation](https://docs.github.com/en)
 ## MOOCs
 ---  
 Massive Open Online Courses

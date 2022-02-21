@@ -19,7 +19,7 @@ Use the resources you that are related to what you want to learn and that fit yo
 * [IDE/Code_Editor Tutorials](#idecode_editor-tutorials)  
 
 ## Lectures
----
+
 Lectures series that give a good introduction to Machine Learning and Deep Learning
 * [Stanford CS229: Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [DeepMind x UCL](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
@@ -27,7 +27,7 @@ Lectures series that give a good introduction to Machine Learning and Deep Learn
 
 
 ## Selected Papers Related to Super Resolution
----
+
 * [How to Read Academic Papers](https://userpages.umbc.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [Image Super-Resolution via Iterative Refinment](https://arxiv.org/abs/2104.07636)
 * [Image Super-Resolution via Deep Recursive Network](https://github.com/tyshiwo/DRRN_CVPR17)
@@ -35,7 +35,7 @@ Lectures series that give a good introduction to Machine Learning and Deep Learn
 * [Accurate Image Super-Resolution Using Very Deep Convelutional Networks](https://arxiv.org/abs/1511.04587)
 
 ## Video Tutorials
----
+
 ### Git
 * [Git in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
 * [Learn Git in 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
@@ -65,7 +65,7 @@ Lectures series that give a good introduction to Machine Learning and Deep Learn
 * [Neural Networks and Deep Learing](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ## Written Tutorials
----
+
 ### Git Tutorials
 * [Git tutorial by Git](https://git-scm.com/docs/gittutorial)
 * [W3Schools Git](https://www.w3schools.com/git/)
@@ -89,7 +89,7 @@ Lectures series that give a good introduction to Machine Learning and Deep Learn
 * [W3Schools Python](https://www.w3schools.com/python/default.asp)
 
 ## Awesome lists
----
+
 ### List of Lists
 * [List of Awesome Lists](https://github.com/sindresorhus/awesome)
 
@@ -105,7 +105,7 @@ Lectures series that give a good introduction to Machine Learning and Deep Learn
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
 
 ## Documentation
----  
+  
 Official documentation for libraries and tools we will use
 * [OpenCV](https://docs.opencv.org/4.5.5/)
 * [Tesorflow](https://www.tensorflow.org/api/stable)
@@ -113,17 +113,17 @@ Official documentation for libraries and tools we will use
 * [Official Git Documentation](https://git-scm.com/doc)
 * [GitHub Documentation](https://docs.github.com/en)
 ## MOOCs
----  
+  
 Massive Open Online Courses
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [Stanford CS229: Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ## GitHub Student Developer Pack
----
+
 * Free resources for students such as a free JetBrains IDE professional License (Intelij, PyCharm etc.)
   * [Github Student Developer Pack](https://education.github.com/pack)  
 ## Book
----
+
 Neural Networks and Deep Learning is a free online book.  
 The book will teach you about:
 Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data
@@ -131,17 +131,17 @@ Deep learning, a powerful set of techniques for learning in neural networks
 * [Neural Networs and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ## Code Examples
----  
+  
 Official code examples from Keras covering common use cases and opperations
 * [Code Examples from Keras](https://keras.io/examples/)
 
 ## Visualization
----  
+  
 Get an intuitive sense of what a neural network does
 * [Tensorflow Playground](https://playground.tensorflow.org/)
 
 ## IDE/Code_Editor Tutorials  
----  
+  
 How to Use VScode and PyCharm from developing effetivly in Python
 * [VSCode for Python](https://code.visualstudio.com/docs/python/python-tutorial)  
 * [PyCharm](https://realpython.com/pycharm-guide/)  

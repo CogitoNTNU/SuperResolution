@@ -134,7 +134,7 @@ Deep learning, a powerful set of techniques for learning in neural networks
   
 Official code examples from Keras covering common use cases and opperations
 * [Code Examples from Keras](https://keras.io/examples/)
-
+* [Super-Resolution Example](https://keras.io/examples/vision/super_resolution_sub_pixel/)
 ## Visualization
   
 Get an intuitive sense of what a neural network does

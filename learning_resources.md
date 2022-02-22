@@ -75,6 +75,7 @@ Lectures series that give a good introduction to Machine Learning and Deep Learn
 
 ### Keras/tensorflow
 * [Intorduction to Deep Learning with Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras)
+* [Deep Leaning](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 * [Autoencoder Tutorial](https://pythonprogramming.net/autoencoders-tutorial/)
 * [Tutorials by Tensorflow](https://www.tensorflow.org/tutorials)
 * [Intro to Keras for Engineers](https://keras.io/getting_started/intro_to_keras_for_engineers/)

@@ -24,7 +24,7 @@ Use the resources you that are related to what you want to learn and that fit yo
 * [Fashion mnist Example from Tensorflow](https://www.tensorflow.org/tutorials/keras/classification)
 * [Keras API Reference](https://keras.io/api/)
 * [Keras Developer Guides](https://keras.io/guides/)
-* []()
+* [Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 
 ## Lectures
 

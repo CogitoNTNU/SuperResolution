@@ -5,6 +5,7 @@ Use the resources you that are related to what you want to learn and that fit yo
 **You do not need to go through everything.**  
 
 ## Click on the Section you want to jump to
+* [Recommended](#recommended)
 * [Lectures](#Lectures)  
 * [Selected Papers Realted to Super Resolution](#selected-papers-related-to-super-resolution)  
 * [Video Tutorials](#video-tutorials)  
@@ -17,6 +18,13 @@ Use the resources you that are related to what you want to learn and that fit yo
 * [Code Examples](#code-examples)  
 * [Visualization](#visualization)  
 * [IDE/Code_Editor Tutorials](#idecode_editor-tutorials)  
+
+## Recommended
+
+* [Fashion mnist Example from Tensorflow](https://www.tensorflow.org/tutorials/keras/classification)
+* [Keras API Reference](https://keras.io/api/)
+* [Keras Developer Guides](https://keras.io/guides/)
+* []()
 
 ## Lectures
 

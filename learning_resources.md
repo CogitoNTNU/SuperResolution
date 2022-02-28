@@ -126,6 +126,7 @@ Official documentation for libraries and tools we will use
 Massive Open Online Courses
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [Stanford CS229: Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Fast.ai](https://course.fast.ai/)
 
 ## GitHub Student Developer Pack
 

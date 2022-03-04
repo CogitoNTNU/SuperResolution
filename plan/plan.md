@@ -19,12 +19,12 @@
 ## Week 10
 * Gå igjennom det Jon sendte forrige uke
 * Gå igjennom kjapt hva Super-Resolution egentlig er
-## week 11
+## Week 11
 * Gå igjennom eksempel Super-Resolution model
 ## Week 12
 * Starte å bygge en Super-Resolution model
 * Finne og processere dataset
-## week 13
+## Week 13
 * Fortsette paa det som ble startet forrige uke
 * Gjore prosjektet ferdig
 ## Week 14

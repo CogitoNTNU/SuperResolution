@@ -29,5 +29,5 @@
 * Gjore prosjektet ferdig
 ## Week 14
 * Prosjektet er ferdig
-## week 15
+## Week 15
 * Paske

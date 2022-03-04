@@ -31,4 +31,3 @@
 * Prosjektet er ferdig
 ## week 15
 * Paske
-* 

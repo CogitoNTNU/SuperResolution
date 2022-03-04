@@ -12,12 +12,12 @@
 | 15 | [Påske](#week-15) |
 
 
-
+---
 
 
 
 ## Week 10
-* Gå igjennom det jeg sendte forrige uke
+* Gå igjennom det Jon sendte forrige uke
 * Gå igjennom kjapt hva Super-Resolution egentlig er
 ## week 11
 * Gå igjennom eksempel Super-Resolution model
@@ -25,18 +25,10 @@
 * Starte å bygge en Super-Resolution model
 * Finne og processere dataset
 ## week 13
-* 
-* 
-* 
-* 
+* Fortsette paa det som ble startet forrige uke
+* Gjore prosjektet ferdig
 ## Week 14
-* 
-* 
-* 
-* 
+* Prosjektet er ferdig
 ## week 15
-* 
-* 
-* 
-* 
+* Paske
 * 

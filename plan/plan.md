@@ -21,6 +21,7 @@
 * Gå igjennom kjapt hva Super-Resolution egentlig er
 ## Week 11
 * Gå igjennom eksempel Super-Resolution model
+* Graffi
 ## Week 12
 * Starte å bygge en Super-Resolution model
 * Finne og processere dataset

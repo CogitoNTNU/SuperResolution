@@ -28,6 +28,9 @@
 * Fortsette paa det som ble startet forrige uke
 * Gjore prosjektet ferdig
 ## Week 14
-* Prosjektet er ferdig
+* Gjore prosjektet ferdig
 ## Week 15
-* Paske
+* Påske
+## Week 16
+* Prosjektet er ferdig
+

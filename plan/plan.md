@@ -10,6 +10,7 @@
 | 13 | [Fortsetter å implementere](#week-13) |
 | 14 | [Ferdig produkt](#week-14) |
 | 15 | [Påske](#week-15) |
+| 15 | [Presentere prosjekt](#week-15) |
 
 
 ---
@@ -27,7 +28,6 @@
 * Finne og processere dataset
 ## Week 13
 * Fortsette paa det som ble startet forrige uke
-* Gjore prosjektet ferdig
 ## Week 14
 * Gjore prosjektet ferdig
 ## Week 15

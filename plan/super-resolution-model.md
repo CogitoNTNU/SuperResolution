@@ -1,21 +1,19 @@
 # Super-Resolution Project Model Plan Sping 2022
 
 ## Overview
-
-| Week | TODO |
+| Part | TODO |
 | ---- | ---- |
-| 10 | [Gå igjennom tesnorflow basic & Hva er SuperResolution](#week-10) |
-| 11 | [Gå igjennom basic Super-Resolution](#week-11)|
-| 12 | [Prøve å implementer noe fra bunnen av (Dyp Læring med keras)](#week-12) |
-| 13 | [Fortsetter å implementere](#week-13) |
-| 14 | [Ferdig produkt](#week-14) |
-| 15 | [Påske](#week-15) |
-| 15 | [Presentere prosjekt](#week-15) |
+| 1 | [Data Pre-Processing](#data-pre-processing) |
+| 2 | [Model](#model)|
+| 3 | [Utility](#utility) |
+| 4 | [Metrics](#metrics) |
+| 5 | [Running and Stop](#running-and-stop) |
+| 6 | [Training](#training) |
 
 
 ---
 
-## Data Pre porcessing
+## Data Pre-Processing
 * Import dataset
 * Split dataset into training and validation
 * Scale all values in images
@@ -28,20 +26,25 @@
 ## Model
 * Activation Relu
 * Kernel initializer orthogonal
+A
 * Pading same
 * Variable input size
 * Convolutional layers
 * output is factor of input  
 
 ## Utility
-* Plot and save output of model
+* Plot and save output of model with zoom in area
 * Convert image to its low res version
-* Use model to upscale image
-## Week 13
-* Fortsette paa det som ble startet forrige uke
-## Week 14
-* Gjore prosjektet ferdig
-## Week 15
-* Påske
-## Week 16
-* Prosjektet er ferdig
+* Use model to upscale image and return in rgb
+
+## Metrics
+* PSNR callback
+* SSIM callback
+
+## Running and Stop
+* ModelCheckpoint
+* EarlyStopping
+
+## Training
+* Compile
+* fit

@@ -1,4 +1,4 @@
-# Super-Resolution Project Model Plan Sping 2022
+# Super-Resolution Project Model Plan Spring 2022
 
 ## Overview
 | Part | TODO |

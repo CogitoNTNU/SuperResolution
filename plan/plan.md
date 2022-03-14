@@ -1,4 +1,4 @@
-# Super-Resolution Project Plan Sping 2022
+# Super-Resolution Project Plan Spring 2022
 
 ## Overview
 
@@ -12,10 +12,7 @@
 | 15 | [Påske](#week-15) |
 | 15 | [Presentere prosjekt](#week-15) |
 
-
 ---
-
-
 
 ## Week 10
 * Gå igjennom det Jon sendte forrige uke

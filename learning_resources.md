@@ -25,6 +25,7 @@ Use the resources you that are related to what you want to learn and that fit yo
 * [Keras API Reference](https://keras.io/api/)
 * [Keras Developer Guides](https://keras.io/guides/)
 * [Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+* [Super-Resolution Example](https://keras.io/examples/vision/super_resolution_sub_pixel/)
 
 ## Lectures
 
@@ -89,8 +90,8 @@ Lectures series that give a good introduction to Machine Learning and Deep Learn
 * [Intro to Keras for Engineers](https://keras.io/getting_started/intro_to_keras_for_engineers/)
 * [Guides by Keras](https://keras.io/guides/)
 ### Machine Learning
-[Introduction to Machine Learning](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
-[Learn ML Resources by Tensorflow](https://www.tensorflow.org/resources/learn-ml)
+* [Introduction to Machine Learning](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
+* [Learn ML Resources by Tensorflow](https://www.tensorflow.org/resources/learn-ml)
 ### Python
 * [Introduction to Python](https://pythonprogramming.net/introduction-learn-python-3-tutorials/)
 * [Intermediate Python](https://pythonprogramming.net/introduction-intermediate-python-tutorial/)

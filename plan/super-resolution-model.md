@@ -15,18 +15,16 @@
 
 ## Data Pre-Processing
 * Import dataset
-* Split dataset into training and validation
-* Scale all values in images
+* Split dataset into training and validation sections
+* Scale all values in images to between 0 and 1
 * Create test set
-* Convert RGB to YUV
-* Split channels & Resize input
-* Split channels & return luminance from high res images
-* Create training ang validation datasets  
+* Convert RGB to YUV, Split channels, downscale and return luminance
+* Convert RGB to YUV, Split channels & return luminance from high res images
+* Create training and validation datasets with high res and down scaled images 
   
 ## Model
 * Activation Relu
 * Kernel initializer orthogonal
-A
 * Pading same
 * Variable input size
 * Convolutional layers
@@ -45,6 +43,3 @@ A
 * ModelCheckpoint
 * EarlyStopping
 
-## Training
-* Compile
-* fit

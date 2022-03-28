@@ -43,3 +43,24 @@
 * ModelCheckpoint
 * EarlyStopping
 
+## Possible Modifications
+* Use of RGB instead of YUV
+* Loss functions:
+    * MSE
+    * Pixel-wise
+    * Contet Loss
+    * Total Variation Loss
+    * Adversarial Loss
+* Layers:
+    * Pooling
+    * Skips
+    * Dense blocks
+* Model structure:
+    * Pre-upsampling
+    * post-upsampling
+    * progressiv-upsampling
+    * Iterative upscaling and downscaling
+    * Auto Encoder
+* [May be worth a look](https://beyondminds.ai/blog/an-introduction-to-super-resolution-using-deep-learning/)
+
+

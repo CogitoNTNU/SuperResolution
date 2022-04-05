@@ -1,7 +1,7 @@
 import os
 import cv2
 
-from dataprocessing import process_input_cv2
+from processing.dataprocessing import process_input_cv2
 
 HR_FOLDER_NAME = "HR"
 

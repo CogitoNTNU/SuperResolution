@@ -1,0 +1,13 @@
+import tensorflow as tf
+
+callback_checkpoints = tf.keras.callbacks.ModelCheckpoint(
+    filepath='/model/checkpoint',
+    monitor='loss',
+    verbose=0,
+    save_best_only=True,
+    save_weights_only=False,
+    mode='low',
+    save_freq='epoc',
+    options=None,
+    initial_value_treshold=None
+)

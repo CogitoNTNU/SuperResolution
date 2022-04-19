@@ -2,6 +2,8 @@ from tensorflow.keras.models import load_model
 import cv2
 from processing.generator import get_generators
 import argparse
+import os
+import tensorflow as tf
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -15,7 +17,7 @@ if __name__ == "__main__":
     parser.add_argument('-c', "--continue_training", action="store_true")
     args = parser.parse_args()
 
-    model = load_model(args.model_save_path)
+    model = load_model(args.model_save_path, custom_objects={'tf': tf})
 
     target_size = args.target_size
     upscale_factor = args.upscale_factor
@@ -24,8 +26,9 @@ if __name__ == "__main__":
 
     images = next(gen)
 
-    predictions = model.predict(images)
+    predictions = model.predict(images[0])
 
+    os.makedirs("results", exist_ok=True)
     print(images[0][0].shape)
     for i, image in enumerate(images[0]):
         cv2.imwrite(f"results/{i}_before.jpg", images[0][i]*255)

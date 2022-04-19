@@ -1,6 +1,7 @@
 from model.example_model import get_model
 from processing.generator import get_generators
 from model.modelCheckpoint import get_checkpoint
+from model.early_stopping import early_stopping
 from tensorflow.keras.models import load_model
 import argparse
 
@@ -17,6 +18,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     checkpoint = get_checkpoint(args.model_save_path)
+    early_stopping = early_stopping()
     target_size = args.target_size
     upscale_factor = args.upscale_factor
     batch_size = args.batch_size
@@ -27,4 +29,4 @@ if __name__ == "__main__":
     else:
         model = get_model(1, args.upscale_factor)
     model.compile(loss="mean_squared_error", optimizer="adam")
-    model.fit_generator(gen, epochs=20, steps_per_epoch=int(4400/batch_size), callbacks=[checkpoint])
+    model.fit_generator(gen, epochs=20, steps_per_epoch=int(4400/batch_size), callbacks=[checkpoint, early_stopping])
